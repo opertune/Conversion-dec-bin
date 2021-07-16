@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571330206 source:c:\projet\conversion dec bin\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+
